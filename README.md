@@ -36,3 +36,4 @@
 - Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 ## UML Class Diagram
+![UMLClassDiagram](image.png)
